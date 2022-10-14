@@ -29,7 +29,7 @@ function carregaProdutoCosif() {
 
         $('#cmbProdutoCosif').empty();
         $.each(data, function (i, produtoCosif) {
-            items += "<option value='" + produtoCosif.codCosif + "'>" + produtoCosif.codCosif + " - " + "(" + produtoCosif.CodClassificacao + ")" + "</option>";
+            items += "<option value='" + produtoCosif.codCosif + "'>" + produtoCosif.codCosif + " - " + "(" + produtoCosif.codClassificacao + ")" + "</option>";
         });
         $('#cmbProdutoCosif').html(items);
     });

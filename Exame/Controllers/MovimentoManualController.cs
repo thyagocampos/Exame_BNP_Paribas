@@ -50,7 +50,7 @@ namespace Exame.Controllers
         {
             if (ModelState.IsValid)
             {
-                movimentoManualVM.MovManual.DatMovimento = DateTime.Today;
+                movimentoManualVM.MovManual.DatMovimento = DateTime.Now;
                 movimentoManualVM.MovManual.CodUsuario = "TESTE";
 
                 var contadorMes = _context.MovimentosManuais.Where(
