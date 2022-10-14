@@ -1,0 +1,444 @@
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\appsettings.json
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.exe
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.deps.json
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.runtimeconfig.json
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.runtimeconfig.dev.json
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.Views.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.Views.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Humanizer.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.AssemblyReference.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.AssemblyInfoInputs.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.AssemblyInfo.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.CoreCompileInputs.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorAssemblyInfo.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorAssemblyInfo.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\scopedcss\bundle\Exame.styles.css
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\staticwebassets\Exame.StaticWebAssets.Manifest.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.TagHelpers.input.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.TagHelpers.output.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorCoreGenerate.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorTargetAssemblyInfo.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorTargetAssemblyInfo.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.Views.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.CopyComplete
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\ref\Exame.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.genruntimeconfig.cache
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\refint\Exame.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\appsettings.json
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.exe
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.deps.json
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.runtimeconfig.json
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ref\Exame.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.Views.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.Views.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Humanizer.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorAssemblyInfo.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorAssemblyInfo.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\scopedcss\bundle\Exame.styles.css
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\staticwebassets\Exame.StaticWebAssets.Manifest.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.TagHelpers.input.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.TagHelpers.output.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorCoreGenerate.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorTargetAssemblyInfo.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorTargetAssemblyInfo.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.Views.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.CopyComplete
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\ref\Exame.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.pdb
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.genruntimeconfig.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\Index.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\appsettings.Development.json
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\appsettings.json
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.exe
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.deps.json
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.runtimeconfig.json
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.runtimeconfig.dev.json
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ref\Exame.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.Views.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Exame.Views.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Humanizer.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Exame_BNP_Paribas\Exame\Exame\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.AssemblyReference.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.AssemblyInfoInputs.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.AssemblyInfo.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.CoreCompileInputs.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.MvcApplicationPartsAssemblyInfo.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorAssemblyInfo.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorAssemblyInfo.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\scopedcss\bundle\Exame.styles.css
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\staticwebassets\Exame.StaticWebAssets.Manifest.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.TagHelpers.input.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.TagHelpers.output.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorCoreGenerate.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\deletar_Index.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\Delete.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\Details.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\Edit.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\Index.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorTargetAssemblyInfo.cache
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.RazorTargetAssemblyInfo.cs
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.Views.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.CopyComplete
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.dll
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\ref\Exame.dll
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.pdb
+E:\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.genruntimeconfig.cache
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\Index.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\_ListaMovimentoManual.cshtml.g.cs
+C:\Users\thyago.campos\Documents\Projetos de Desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Razor\Views\MovimentoManual\_ListaMovimentoManual.cshtml.g.cs
+C:\Users\thyag\OneDrive\Documentos\Projetos de desenvolvimento\Laboratorio_ASP\Exame_BNP_Paribas\Exame\Exame\obj\Debug\net5.0\Exame.csproj.AssemblyReference.cache

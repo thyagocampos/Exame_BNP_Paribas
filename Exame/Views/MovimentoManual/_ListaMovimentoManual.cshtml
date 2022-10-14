@@ -1,0 +1,59 @@
+﻿@model Exame.ViewModels.MovimentoManualViewModel
+
+<div class="row mt-3 mb-3">
+    
+    @if(string.IsNullOrEmpty(Model.AnoPesquisa) && string.IsNullOrEmpty(Model.MesPesquisa))
+    {
+        <div class="col" style="text-align: center;">
+            <input type="button" id="btnLimpa" value="Limpar" class="btn btn-primary" onclick="limpar()" />
+            <input type="button" id="btnNovo" value="Novo" class="btn btn-primary" onclick="novo()" />
+            <input type="button" id="btnAdiciona" value="Incluir" class="btn btn-primary" onclick="enviaMovimentoManual()" />
+            <input type="button" id="btnPesquisa" value="Pesquisar" class="btn btn-primary" onclick="showModalpesquisa()" />             
+        </div>
+    }
+    else
+    {
+        <div class="col-md-12" style="text-align: center;">
+            <input type="button" id="btnLimpa" value="Limpar" class="btn btn-primary" onclick="limpar()" />
+            <input type="button" id="btnNovo" value="Novo" class="btn btn-primary" onclick="novo()" />
+            <input type="button" id="btnAdiciona" value="Incluir" class="btn btn-primary" onclick="enviaMovimentoManual()" />
+            <input type="button" id="btnPesquisa" value="Pesquisar" class="btn btn-primary" onclick="showModalpesquisa()" />
+        </div>
+        
+        <div class="col-md-12" style="text-align: center;">
+            <p>Exibindo resultados da pesquisa, com mês: @Model.MesPesquisa e ano: @Model.AnoPesquisa. <a href="#" onclick="reloadGrid() ">Limpar pesquisa</a></p>
+        </div>
+    }    
+    
+</div>
+
+
+<div class="row">
+    <table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Mês</th>
+            <th scope="col">Ano</th>
+            <th scope="col">Código do produto</th>
+            <th scope="col">Descrição do produto</th>
+            <th scope="col">NR lançamento</th>
+            <th scope="col">Descrição</th>
+            <th scope="col">Valor</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movimentoManual in Model.ListaMovimentoManual)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.DatMes)</td>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.DatAno)</td>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.CodProduto)</td>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.Produto.DesProduto)</td>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.NumLancamento)</td>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.DesDescricao)</td>
+                <td>@Html.DisplayFor(modelItem => movimentoManual.ValValor)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

@@ -1,0 +1,102 @@
+﻿@model Exame.ViewModels.MovimentoManualViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Movimento Manual</h1>
+
+<!-- modal pesquisa -->
+<div class="modal fade" id="modalPesquisa" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitulo">Pesquisa por mês e ano</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formPesquisa">
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                            <label asp-for="MesPesquisa" class="control-label">Mês</label>
+                            <input asp-for="MesPesquisa"  id="txtMesPesquisa" class="form-control" />
+                            <span asp-validation-for="MesPesquisa" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6">
+                            <label asp-for="AnoPesquisa" class="control-label">Ano</label>
+                            <input asp-for="AnoPesquisa"  id="txtAnoPesquisa" class="form-control" />
+                            <span asp-validation-for="AnoPesquisa" class="text-danger"></span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-primary " onclick="enviaPesquisa()">Pesquisar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" id="formMovimentoManual">
+            <div class="text-danger"></div>
+
+            <input type="hidden" value="0" asp-for="MovManual.NumLancamento" class="form-control" />
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label asp-for="MovManual.DatMes" class="control-label">Mês</label>
+                    <input asp-for="MovManual.DatMes" readonly id="txtMes" class="form-control" />
+                    <span asp-validation-for="MovManual.DatMes" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="MovManual.DatAno" class="control-label">Ano</label>
+                    <input asp-for="MovManual.DatAno" readonly id="txtAno" class="form-control" />
+                    <span asp-validation-for="MovManual.DatAno" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label asp-for="MovManual.CodProduto" class="control-label "></label>
+                    <select asp-for="MovManual.CodProduto" readonly id="cmbProduto" class="form-control" asp-items="ViewBag.CodProduto">Produto</select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="MovManual.CodCosif" class="control-label " COSIF></label>
+                    <select asp-for="MovManual.CodCosif" readonly id="cmbProdutoCosif" class="form-control">
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label asp-for="MovManual.ValValor" class="control-label">Valor</label>
+                    <input asp-for="MovManual.ValValor" readonly id="txtValor" class="form-control" />
+                    <span asp-validation-for="MovManual.ValValor" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label asp-for="MovManual.DesDescricao" class="control-label">Descrição</label>
+                    <textarea asp-for="MovManual.DesDescricao" readonly id="txtDescricao" class="form-control" rows="4"></textarea>
+                    <span asp-validation-for="MovManual.DesDescricao" class="text-danger"></span>
+                </div>
+            </div>
+
+
+        </form>
+    </div>
+</div>
+
+<div id="movimentosManuais">
+    @await Html.PartialAsync("_ListaMovimentoManual")
+</div>
+
