@@ -94,11 +94,11 @@ namespace Exame.Controllers
                 VM.ListaMovimentoManual =  await _context.MovimentosManuais
                     .Where(mov => mov.DatAno == anoPesquisa)
                     .Where(mov => mov.DatMes == mesPesquisa)
+                    .Include("Produto")
                     .ToListAsync();
 
                 VM.AnoPesquisa = AnoPesquisa;
-                VM.MesPesquisa = MesPesquisa;
-                
+                VM.MesPesquisa = MesPesquisa;                
             }
             else
             {
